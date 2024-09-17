@@ -30,7 +30,7 @@ cd Project_Nebula_Frontend
 
 * This builds an image from the docker file with the name provided above. 
 
-    > **[!NOTE:]**
+    >  [!NOTE:]
     >  Use `docker images` to check all images available on you docker.
 
 * Run the image into a container using the following codes 
