@@ -30,7 +30,7 @@ cd Project_Nebula_Frontend
 
 * This builds an image from the docker file with the name provided above. 
 
-    >  [!NOTE:]
+    >  **NOTE:**
     >  Use `docker images` to check all images available on you docker.
 
 * Run the image into a container using the following codes 
@@ -40,7 +40,7 @@ cd Project_Nebula_Frontend
 Now your application will be available on localhost:3000.
 
 #### Ruuning On A Developer Mode
-* In your clone repository, install the `npm` manager using this command
+* In your cloned repository, install the `npm` manager using this command
     ```
     npm install
     ```
